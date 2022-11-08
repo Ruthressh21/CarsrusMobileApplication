@@ -25,6 +25,8 @@
     <string name="improve">Tell us what can be improved?</string>
     <string name="submit">Submit</string>
     <string name="editName">Name</string>
+    <string name="currentPasswd">Current Password</string>
+    <string name="newpasswd">New Password</string>
 
 
     <string name="hello_first_fragment">Hello first fragment</string>
